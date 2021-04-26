@@ -15,3 +15,6 @@ At the end of this project, I'll learn about:
 - How to animate elements in CSS.  
 - How to transform (2d, 3d) elements.  
 - What vendor prefixes are.  
+
+---
+twitter: ronniebm
