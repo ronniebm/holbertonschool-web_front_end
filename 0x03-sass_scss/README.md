@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none !important;
-}
-</style>
-
 # 0x03. Sass & Scss
 
 <!-- badges section with https://img.shields.io/ -->
@@ -31,10 +25,7 @@ td, th {
 
 <!-- image and subtitle section -->
 
-| aa | bb | cc |  
-| ee | ff | gg |
-
-<table border="0">
+<table>
   <tr>
     <td>
       <img
@@ -44,9 +35,7 @@ td, th {
     </td>
     <td></td>
     <td>
-      <h2>Syntactically Awesome</h2>
-      <br>
-      <h1>Style Sheets ! 🙂</h1>
+      <h2>Syntactically Awesome Style Sheets ! 🙂</h2>
     </td>
   </tr>
 </table>
