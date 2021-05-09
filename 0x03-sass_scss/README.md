@@ -107,10 +107,8 @@ Let's get in touch !, scan QR code.
   />
 </a>
 &emsp;
-
+<br>
 <a href="mailto:ronnie.coding@gmail.com?subject=Let's do a meet ! &amp;body=Hi Ronnie, %0D%0A%0D%0A I've check your Github profile, i would like to contact you.%0D%0A%0D%0A Att,%0D%0A------------------------%0D%0A***your sign*** &amp;">
-  <img 
-    src="https://pics.freeicons.io/uploads/icons/png/4486285281582823592-512.png"
-    width="30px"
-  />
+<br>
+--->&emsp;or Send EMAIL here&emsp;<---
 </a>
