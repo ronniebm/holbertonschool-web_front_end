@@ -48,7 +48,7 @@ At the end of this project, I'll learn about:
 - Shorthands for flex.  
 - How to create a new page with flex in mind.  
   <br>
-  <img src="https://media0.giphy.com/media/UcK7JalnjCz0k/200.webp?cid=ecf05e47cquhd1wlm4jz95pz85v53ggbsbu1w8jfm3iq6k8p&rid=200.webp&ct=g"
+  <img src="https://media1.giphy.com/media/dCcGuJ77pgICjpSzL6/200w.webp?cid=ecf05e47446d8tmsdkqck6v03v7vpmordtrsa3j6aicxbmd4&rid=200w.webp&ct=g"
   width="300px">
 
 <!-- Social networks section -->
