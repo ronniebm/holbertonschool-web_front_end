@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none !important;
+}
+</style>
+
 # 0x03. Sass & Scss
 
 <!-- badges section with https://img.shields.io/ -->
@@ -25,9 +31,8 @@
 
 <!-- image and subtitle section -->
 
-| aa  | bb  | cc  |
-| --- | --- | --- |
-| ee  | ff  | gg  |
+| aa | bb | cc |  
+| ee | ff | gg |
 
 <table border="0">
   <tr>
