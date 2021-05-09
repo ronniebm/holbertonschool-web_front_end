@@ -29,7 +29,7 @@
 | --- | --- | --- |
 | ee  | ff  | gg  |
 
-<table style="border: none">
+<table border="0">
   <tr>
     <td>
       <img
