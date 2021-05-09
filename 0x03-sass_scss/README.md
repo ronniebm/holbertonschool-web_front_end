@@ -2,17 +2,29 @@
 
 <!-- badges section with https://img.shields.io/ -->
 
-<span><img src="https://img.shields.io/badge/Specialization-webstack--frontend-green"/></span>
+<span>
+  <img src="https://img.shields.io/badge/Specialization-webstack--frontend-green"/>
+</span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Training-Holberton-red"/></span>
+
+<span>
+  <img src="https://img.shields.io/badge/Training-Holberton-red"/>
+</span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Cohort%20%23-12-yellowgreen"/></span>
+
+<span>
+  <img src="https://img.shields.io/badge/Cohort%20%23-12-yellowgreen"/>
+</span>
 &nbsp;&nbsp;
-<span><img src="https://img.shields.io/badge/Directory-0x03--sass__scss-blue"/></span>
+
+<span>
+  <img src="https://img.shields.io/badge/Directory-0x03--sass__scss-blue"/>
+</span>
+
 <br><br>
 
 <!-- image and subtitle section -->
-<table>
+<table style="border: none">
   <tr>
     <td>
       <img
