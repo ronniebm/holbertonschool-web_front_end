@@ -30,7 +30,7 @@
   width="150px"
 />
 
-<h2>Syntactically Awesome Style Sheets ! 🙂</h2>
+## **Syntactically Awesome Style Sheets !** 🙂
 
 <br>
 
