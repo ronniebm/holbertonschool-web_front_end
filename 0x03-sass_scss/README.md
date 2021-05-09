@@ -63,13 +63,13 @@ At the end of this project, I'll learn about:
     <td>
       <img
         src="https://avatars.githubusercontent.com/u/65184918?v=4"
-        width="100px"
+        width="150px"
       />
     </td>
     <td>
       <img
         src="https://github.com/ronniebm/holbertonschool-web_front_end/blob/master/qr-code.png"
-        width="100px"
+        width="150px"
       />
     </td>
   </tr>
@@ -110,7 +110,7 @@ Let's get in touch !, scan QR code.
 
 <a href="mailto:ronnie.coding@gmail.com?subject=Let's do a meet ! &amp;body=Hi Ronnie, %0D%0A%0D%0A I've check your Github profile, i would like to contact you.%0D%0A%0D%0A Att,%0D%0A------------------------%0D%0A***your sign*** &amp;">
   <img 
-    src="https://pics.freeicons.io/uploads/icons/png/4003312661579531236-512.png"
+    src="https://pics.freeicons.io/uploads/icons/png/4486285281582823592-512.png"
     width="30px"
   />
 </a>
