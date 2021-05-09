@@ -24,6 +24,11 @@
 <br><br>
 
 <!-- image and subtitle section -->
+
+| aa  | bb  | cc  |
+| --- | --- | --- |
+| ee  | ff  | gg  |
+
 <table style="border: none">
   <tr>
     <td>
