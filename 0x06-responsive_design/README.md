@@ -46,7 +46,7 @@ At the end of this project, I'll learn about:
 - The differences between responsive and adaptive design.  
 - CSS units that are used to make elements flexible.  
   <br>
-  <img src="https://media.giphy.com/media/3o7aCVTfelG4XSbv3y/giphy.gif"
+  <img src="https://media1.giphy.com/media/3o7aCVTfelG4XSbv3y/200.webp?cid=ecf05e47qvwi952qsscvqmg7s9w435igynqqkfht6nwyy48f&rid=200.webp&ct=g"
   width="300px">
 
 <!-- Social networks section -->
